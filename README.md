@@ -1,1 +1,7 @@
-# ccna11through20
+- <b>CCNA Networking Labs</b>
+  - [Day 11 Lab: Configuring Static Routes](https://github.com/qjackson14/configuringstaticroutes)
+  - [Day 11 Lab: Troubleshooting Static Routes](https://github.com/qjackson14/troubleshootingstaticroutes)
+  - [Day 12 Lab: Life of a Packet MAC Addresses](https://github.com/qjackson14/lifeofapacketmac)
+  - [Day 15 Lab: Subnetting VLSM](https://github.com/qjackson14/subnettingvlsm)
+  - [Day 16 & 17 Lab: Vlan](https://github.com/qjackson14/vlans)
+  - [Day 20 Lab: Spanning Tree Protocol](https://github.com/qjackson14/stp/blob/main/README.md)
