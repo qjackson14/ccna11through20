@@ -4,4 +4,5 @@
   - [Day 12 Lab: Life of a Packet MAC Addresses](https://github.com/qjackson14/lifeofapacketmac)
   - [Day 15 Lab: Subnetting VLSM](https://github.com/qjackson14/subnettingvlsm)
   - [Day 16 & 17 Lab: Vlan](https://github.com/qjackson14/vlans)
+  - [Day 18 Lab: Multilayer Switch](https://github.com/qjackson14/multilayerswitch)
   - [Day 20 Lab: Spanning Tree Protocol](https://github.com/qjackson14/stp/blob/main/README.md)
